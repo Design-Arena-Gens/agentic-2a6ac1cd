@@ -1,0 +1,66 @@
+{
+  "categories": [
+    {
+      "id": "burgers",
+      "name": "Burgers",
+      "items": [
+        {"id": "big-mac", "name": "Big Mac", "price": 5.49, "calories": 550, "tags": ["beef", "sesame bun", "special sauce"], "popular": true},
+        {"id": "quarter-pounder-cheese", "name": "Quarter Pounder with Cheese", "price": 5.29, "calories": 520, "tags": ["beef", "cheese"]},
+        {"id": "cheeseburger", "name": "Cheeseburger", "price": 1.69, "calories": 300, "tags": ["beef", "cheese"], "popular": true},
+        {"id": "mc-double", "name": "McDouble", "price": 2.49, "calories": 400, "tags": ["beef", "cheese"]}
+      ]
+    },
+    {
+      "id": "chicken-fish",
+      "name": "Chicken & Fish",
+      "items": [
+        {"id": "mcchicken", "name": "McChicken", "price": 2.29, "calories": 400, "tags": ["chicken"], "popular": true},
+        {"id": "mccrispy", "name": "McCrispy", "price": 4.99, "calories": 470, "tags": ["chicken", "crispy"]},
+        {"id": "filet-o-fish", "name": "Filet-O-Fish", "price": 4.79, "calories": 390, "tags": ["fish", "cheese"]}
+      ]
+    },
+    {
+      "id": "breakfast",
+      "name": "Breakfast",
+      "items": [
+        {"id": "egg-mcmuffin", "name": "Egg McMuffin", "price": 3.79, "calories": 310, "tags": ["breakfast", "egg", "english muffin"], "popular": true},
+        {"id": "sausage-biscuit", "name": "Sausage Biscuit", "price": 1.99, "calories": 460, "tags": ["sausage", "biscuit"]},
+        {"id": "hotcakes", "name": "Hotcakes", "price": 3.19, "calories": 580, "tags": ["pancakes", "sweet"]}
+      ]
+    },
+    {
+      "id": "sides",
+      "name": "Sides",
+      "items": [
+        {"id": "fries-small", "name": "World Famous Fries (Small)", "price": 2.19, "calories": 230, "tags": ["fries"], "popular": true},
+        {"id": "fries-medium", "name": "World Famous Fries (Medium)", "price": 2.69, "calories": 320, "tags": ["fries"]},
+        {"id": "apple-slices", "name": "Apple Slices", "price": 0.99, "calories": 15, "tags": ["kids", "fruit"], "popular": true}
+      ]
+    },
+    {
+      "id": "beverages",
+      "name": "Beverages",
+      "items": [
+        {"id": "coke-medium", "name": "Coca-Cola (Medium)", "price": 1.49, "calories": 210, "tags": ["soda"]},
+        {"id": "sprite-medium", "name": "Sprite (Medium)", "price": 1.49, "calories": 200, "tags": ["soda"]},
+        {"id": "premium-roast-coffee", "name": "Premium Roast Coffee", "price": 1.99, "calories": 0, "tags": ["coffee"], "popular": true}
+      ]
+    },
+    {
+      "id": "desserts",
+      "name": "Desserts",
+      "items": [
+        {"id": "mcflurry-oreo", "name": "OREO McFlurry", "price": 3.49, "calories": 510, "tags": ["ice cream", "oreo"], "popular": true},
+        {"id": "apple-pie", "name": "Apple Pie", "price": 1.29, "calories": 230, "tags": ["pie", "sweet"]}
+      ]
+    },
+    {
+      "id": "happy-meal",
+      "name": "Happy Meal",
+      "items": [
+        {"id": "happy-meal-cheeseburger", "name": "Cheeseburger Happy Meal", "price": 4.49, "calories": 475, "tags": ["kids", "meal"], "popular": true},
+        {"id": "happy-meal-chicken-nuggets", "name": "4pc Chicken McNuggets Happy Meal", "price": 4.79, "calories": 445, "tags": ["kids", "chicken", "meal"]}
+      ]
+    }
+  ]
+}
